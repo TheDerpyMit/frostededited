@@ -1,5 +1,6 @@
 /**
- * @name edit
+ * @name FrostedGlassButEdited
+ * @editedby MitDaDerp
  * @author Gibbu#1211
  * @version 2.0.0
  * @description Display your picture of choice with adjustable blur and brightness.
@@ -8,7 +9,6 @@
  * @donate https://paypal.me/IanRGibson
  * @website https://gibbu.me
  * @authorId 174868361040232448
- * @BDEditor Frosted Glass
 */
 
 @import url('https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css');
@@ -16,7 +16,7 @@
 @import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
 
 :root {
-  --background-image: url('https://cdn.discordapp.com/attachments/724612545423605910/1099283761172062248/151346673_245070320625005_4016321661932442049_n.png');
+  --background-image: url('https://i.imgur.com/2sSOjUq.jpg');
   --background-image-blur: 7px;
   --background-image-size: cover;
   --background-image-position: center;
@@ -65,3 +65,4 @@
 /* Any custom CSS below here */
 
 
+/*Made By MitDaDerp
