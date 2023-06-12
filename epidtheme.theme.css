@@ -1,0 +1,49 @@
+/**
+ * @name epidtheme
+ * @version 8.0
+ * @description A simple but highly customizable theme, now sugar free!
+ * @author Spectra
+ * @invite PZdnCVD
+ * @source https://github.com/xcruxiex/themes
+ * @website https://betterdiscord.app/theme/Neutron
+ * @BDEditor Neutron
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url('https://xcruxiex.github.io/themes/themes-cores/neutron8.css');
+@import url('https://nyri4.github.io/Discolored/main.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+
+:root {
+  --backgroundImage: url('https://cdn.discordapp.com/attachments/724612545423605910/1117865340190347514/qruziya_specnaz_080323.png');
+  --backgroundColor: #333333;
+  --backgroundSize: cover;
+  --backgroundPosition: center;
+  --backgroundRepeat: no-repeat;
+  --backgroundBlur: 15px;
+  --backgroundOpacity: 1;
+  --homeImage: url('https://media.tenor.com/QuVLB8euJ0kAAAAi/jojo-text.gif');
+  --homeImageSize: contain;
+  --themeColor1: #D4A003;
+  --themeColor2: #FFE502;
+  --customFont: Open Sans;
+  --backgroundCode: rgba(0 0 0 /.5);
+  --backgroundName: rgb(123,100,29,1);
+  --rs-small-spacing: 2px;
+  --rs-medium-spacing: 2px;
+  --rs-large-spacing: 2px;
+  --rs-small-width: 2px;
+  --rs-medium-width: 2px;
+  --rs-large-width: 2px;
+  --rs-avatar-shape: 50%;
+  --rs-online-color: #43b581;
+  --rs-idle-color: #faa61a;
+  --rs-dnd-color: #f04747;
+  --rs-offline-color: #636b75;
+  --rs-streaming-color: #643da7;
+  --rs-phone-visible: block;
+}
+
+/* Any custom CSS below here */
+
+
