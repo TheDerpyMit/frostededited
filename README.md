@@ -1,5 +1,5 @@
 # frostededited
-Becautifull edited versions of frostedglass made using [bdeditor](https://bdeditor.dev/).
+Beautifully edited versions of frostedglass made using [bdeditor](https://bdeditor.dev/).
 
 ## Purple Sky
 ![image](https://github.com/TheDerpyMit/frostededited/assets/96660621/becb8d4f-55af-4da9-9dc0-2794b57c5df2)
