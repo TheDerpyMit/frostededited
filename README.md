@@ -10,6 +10,10 @@ Beautifully edited versions of frostedglass made using [bdeditor](https://bdedit
 ## Watchtower
 ![image](https://github.com/TheDerpyMit/frostededited/assets/96660621/1cd3e38c-4343-4d84-be4b-647ae0150c7b)
 
+## Watchtower 2
+![image](https://github.com/TheDerpyMit/frostededited/assets/96660621/12a31aa2-75ce-430a-a79b-c1681660d0d7)
+
+
 > [!NOTE]
 > These themes have been made to be used with Vencord.
 
